@@ -8,4 +8,4 @@ After that, open the command line and write the command:
 ```
 pip install -r requirements.txt
 ```
-Once you have written the command, open the file ```ytdownloader.py``
+Once you have written the command, open the file ``ytdownloader.py``
